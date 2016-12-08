@@ -1,24 +1,9 @@
-# README
+# Mostrous controller action refactor
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Your task is simple.
 
-Things you may want to cover:
+Refactor the monstrous action in BookingsController and write specs for it.
 
-* Ruby version
+You can use any pattern you want (Queries, ServiceObjects, UseCases, etc.), but please don't use any external tools (gems, APIs, etc.).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Good luck!
